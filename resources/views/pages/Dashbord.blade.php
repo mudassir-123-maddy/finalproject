@@ -5,7 +5,7 @@
      font-family: 'Inter', sans-serif;
     }
  .main2{
-    height: 100%;
+    height: 10%;
  }   
 .box-0{
     background: linear-gradient(to right, #7c3aed, #2563eb);
